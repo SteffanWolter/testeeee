@@ -1,0 +1,1 @@
+document.body.innerHTML = document.body.innerHTML.replace('/sites/all/themes/eva_ns/img/logo_438x106.png', 'https://i.ibb.co/BPGtSjs/logo-438x106.jpg');
